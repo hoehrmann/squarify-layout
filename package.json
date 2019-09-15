@@ -1,6 +1,6 @@
 {
   "name": "squarify-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Distribute weighted rectangles in a rectangle",
   "main": "out/public.js",
   "types": "out/public.d.ts",
@@ -10,8 +10,7 @@
   },
   "author": "Bjoern Hoehrmann",
   "license": "MIT",
-  "bin": {
-  },
+  "bin": {},
   "prettier": {
     "arrowParens": "always",
     "printWidth": 70,
@@ -21,8 +20,7 @@
     "endOfLine": "lf",
     "trailingComma": "es5"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^11.13.4",
     "jsdoc": "^3.5.5",
